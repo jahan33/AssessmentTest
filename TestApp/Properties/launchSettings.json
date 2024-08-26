@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestApp": {
+      "commandName": "Project",
+      "commandLineArgs": "2016-10-01 2016-11-15 55"
+    }
+  }
+}

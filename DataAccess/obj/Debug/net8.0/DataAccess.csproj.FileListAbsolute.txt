@@ -1,0 +1,12 @@
+E:\temp\TestApp\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+E:\temp\TestApp\DataAccess\bin\Debug\net8.0\DataAccess.dll
+E:\temp\TestApp\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+E:\temp\TestApp\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+E:\temp\TestApp\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\temp\TestApp\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+E:\temp\TestApp\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+E:\temp\TestApp\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\temp\TestApp\DataAccess\obj\Debug\net8.0\DataAccess.dll
+E:\temp\TestApp\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+E:\temp\TestApp\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+E:\temp\TestApp\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

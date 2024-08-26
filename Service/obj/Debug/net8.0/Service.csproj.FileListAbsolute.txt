@@ -1,0 +1,15 @@
+E:\temp\TestApp\Service\bin\Debug\net8.0\Service.deps.json
+E:\temp\TestApp\Service\bin\Debug\net8.0\Service.dll
+E:\temp\TestApp\Service\bin\Debug\net8.0\Service.pdb
+E:\temp\TestApp\Service\bin\Debug\net8.0\DataAccess.dll
+E:\temp\TestApp\Service\bin\Debug\net8.0\DataAccess.pdb
+E:\temp\TestApp\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+E:\temp\TestApp\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\temp\TestApp\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+E:\temp\TestApp\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+E:\temp\TestApp\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+E:\temp\TestApp\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+E:\temp\TestApp\Service\obj\Debug\net8.0\Service.dll
+E:\temp\TestApp\Service\obj\Debug\net8.0\refint\Service.dll
+E:\temp\TestApp\Service\obj\Debug\net8.0\Service.pdb
+E:\temp\TestApp\Service\obj\Debug\net8.0\ref\Service.dll
